@@ -1,4 +1,4 @@
-package se.codemnky.leetcode.twosum;
+package se.codemnky.leetcode;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -8,7 +8,7 @@ import java.util.Map;
  * You may assume that each input would have exactly one solution, and you may not use the same element twice.
  * You can return the answer in any order.
  */
-public class Solution {
+public class TwoSum {
 
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> numMap = new HashMap<>();

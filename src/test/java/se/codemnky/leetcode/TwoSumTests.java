@@ -1,11 +1,12 @@
-package se.codemnky.leetcode.twosum;
+package se.codemnky.leetcode;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import se.codemnky.leetcode.TwoSum;
 
 public class TwoSumTests {
 
-    private Solution classUnderTest = new Solution();
+    private TwoSum classUnderTest = new TwoSum();
 
     @Test
     void twoSumOkTwoNumbers() {
