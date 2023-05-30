@@ -2,9 +2,8 @@ package se.codemnky.leetcode;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import se.codemnky.leetcode.TwoSum;
 
-public class TwoSumTests {
+public class TwoSumTest {
 
     private TwoSum classUnderTest = new TwoSum();
 

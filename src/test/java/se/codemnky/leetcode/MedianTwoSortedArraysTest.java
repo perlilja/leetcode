@@ -3,7 +3,7 @@ package se.codemnky.leetcode;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class MedianTwoSortedArraysTests {
+public class MedianTwoSortedArraysTest {
 
     private MedianTwoSortedArrays classUnderTest = new MedianTwoSortedArrays();
 
